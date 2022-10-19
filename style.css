@@ -1,0 +1,17 @@
+div{
+background-color: white;
+padding: 0 0 15px 0;
+text-align: center;
+border: 1px black solid;
+margin: 0 10px 0 0;
+float: left;
+
+} 
+img{
+width: 360px;
+height: 255px;
+
+}
+.border{
+    border: 4px black solid;
+}
